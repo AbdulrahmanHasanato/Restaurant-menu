@@ -1,0 +1,97 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.color-body {
+  background-color: #f8f8f8;
+  height: 100vh;
+}
+
+.font {
+  font-family: 'Raleway', sans-serif;
+}
+
+.title {
+  color: #224f61;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+}
+
+.underline {
+  height: 1px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+}
+
+.btn {
+  color: #8c8c8c;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.btn:hover {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+  border-radius: 10px;
+  border: none;
+  background-color: #b45b35;
+}
+
+.img-item {
+  height: 180px;
+  width: 252px;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.item-description {
+  color: #8c8c8c;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.item-title {
+  color: #555555;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.card-color {
+  background-color: #f8f8f8;
+}
+
+.item-price {
+  color: #b45b35;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.btn-search {
+  color: #b45b35;
+  border-radius: 3px solid #b45b35;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.btn-search:hover {
+  color: #ffffff;
+  border-radius: 3px solid #ffffff;
+  background-color: #b45b35;
+  border-radius: 8px;
+}
+
+.brand-color {
+  color: #b45b35;
+}
